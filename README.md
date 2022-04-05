@@ -1,0 +1,2 @@
+# VerticalSlider
+Vertical photo slider
